@@ -1,0 +1,23 @@
+{
+  "name": "EscrowNFT",
+  "version": "1.0.0",
+  "description": "Solidity contract that enables trustless transactions between buyer and seller regarding requests for work, art, etc...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gweinz/EscrowNFT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gweinz/EscrowNFT/issues"
+  },
+  "homepage": "https://github.com/gweinz/EscrowNFT#readme",
+  "devDependencies": {
+    "hardhat": "^2.7.0"
+  }
+}
